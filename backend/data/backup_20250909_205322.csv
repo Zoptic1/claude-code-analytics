@@ -3,7 +3,7 @@ Sale_ID,Date,Units_Sold,Price_Per_Unit,Revenue,Region,Sales_Channel
 2,2025-04-25,5,149,745,Africa,Online Store
 3,2025-10-30,14,149,2086,North America,Online Store
 4,2025-04-22,8,149,1192,Africa,Retail Partner
-5,2025-11-29,18,229,4122,Europe,Event Booth
+5,2025-11-29,18,229,4122,Europe,Event Booth 
 6,2025-10-29,9,149,1341,Europe,Event Booth
 7,2025-06-24,9,179,1611,Europe,Direct Sales
 8,2025-02-22,3,229,687,North America,Direct Sales
